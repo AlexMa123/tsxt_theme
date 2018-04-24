@@ -166,7 +166,7 @@
 \RequirePackage[pagestyles]{titlesec}
 \ifustc@opt@bachelor
     \newcommand\ustc@header@size{\zihao{-5}}
-    \newcommand\ustc@main@header{中国科学技术大学本科毕业论文}
+    \newcommand\ustc@main@header{山东大学本科毕业论文}
 \else
     \newcommand\ustc@header@size{\zihao{5}}
     \newcommand\ustc@main@header{%
