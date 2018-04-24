@@ -257,10 +257,10 @@
         \tikz[remember picture,overlay]%
             \node [yshift=-4cm] at (current page.north) [below,align=flush center]%
                 {\parbox{\textwidth}{\raggedleft\fangsong\setfontsize{14bp}\ustc@secrettext}};%
-        \vpostext{3.4cm}{\includegraphics[height=100bp]{figures/ustc_logo_text}}%
+        \vpostext{3.4cm}{\includegraphics[height=100bp]{figures/tsxt_logo_text}}%
         \vpostext{8.5cm}{\sffamily\setfontsize{56bp}\ustc@thesisname}%
-        \vpostext{11.5cm}{\includegraphics[height=3cm]{figures/tsxt_logo_fig}}%
-        \vpostext{15.8cm}{\sffamily\bfseries\setfontsize{26bp}\ustc@title}%
+        \vpostext{11.5cm}{\includegraphics[height=5cm]{figures/tsxt_logo_fig}}%
+        \vpostext{17.8cm}{\sffamily\bfseries\setfontsize{26bp}\ustc@title}%
         \tikz[remember picture,overlay]%
             \node [xshift=6cm,yshift=-20.5cm] at (current page.north west)%
             [below right,align=left] {%
